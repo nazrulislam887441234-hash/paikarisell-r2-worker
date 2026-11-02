@@ -1,0 +1,7 @@
+name = "paikarisell-r2-worker"
+main = "src/index.js"
+compatibility_date = "2026-03-01"
+
+[r2_buckets]
+binding = "NID_BUCKET"
+bucket_name = "paikarisell-nid"
